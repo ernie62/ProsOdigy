@@ -1,2 +1,0 @@
-# ProsOdigy
-Experimental app 
